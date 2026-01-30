@@ -33,11 +33,10 @@ Sou graduando em **Investigação Forense e Perícia Criminal** pela **Uniasselv
 
 ---
 
-### 📂 Projetos em Destaque
-*(Sugestões para seus próximos repositórios)*
-1. **[Análise de Dados de Crimes]** - Uso de Python/SQL para identificar padrões criminais.
-2. **[Script de Coleta Forense]** - Automação em Python para hash e integridade de arquivos.
-3. **[Relatório de Invasão Controlada]** - Documentação de testes de penetração (Ethical Hacking).
+### 📂 Projetos em Destaque 
+* **
+* **
+* **
 
 ---
 
